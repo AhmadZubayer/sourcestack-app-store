@@ -1,0 +1,1685 @@
+[
+    {
+        "image":  "/Apps/chrome.png",
+        "title":  "Google Chrome",
+        "companyName":  "Google LLC",
+        "id":  1,
+        "description":  "Fast, secure browser with built-in Google services. Browse with confidence and speed across all your devices. Chrome offers advanced security features including automatic updates and sandboxing technology. Seamlessly sync your bookmarks, passwords, and settings across multiple devices. Experience lightning-fast page loading with V8 JavaScript engine. Access thousands of extensions and customize your browsing experience to match your needs.",
+        "size":  95.5,
+        "reviews":  12500000,
+        "ratingAvg":  4.5,
+        "downloads":  5000000000,
+        "ratings":  [
+                        {
+                            "name":  "5 star",
+                            "count":  7750000
+                        },
+                        {
+                            "name":  "4 star",
+                            "count":  3750000
+                        },
+                        {
+                            "name":  "3 star",
+                            "count":  625000
+                        },
+                        {
+                            "name":  "2 star",
+                            "count":  250000
+                        },
+                        {
+                            "name":  "1 star",
+                            "count":  125000
+                        }
+                    ]
+    },
+    {
+        "image":  "/Apps/firefox.png",
+        "title":  "Firefox Browser",
+        "companyName":  "Mozilla",
+        "id":  2,
+        "description":  "Fast, private and safe web browser. Respect your privacy while browsing the internet with enhanced tracking protection. Firefox blocks third-party cookies and trackers by default to keep your data safe. Built by a non-profit organization dedicated to keeping the internet open and accessible. Enjoy powerful customization options with thousands of add-ons and themes. Experience smooth performance with low memory usage and efficient resource management.",
+        "size":  78.3,
+        "reviews":  8500000,
+        "ratingAvg":  4.4,
+        "downloads":  1500000000,
+        "ratings":  [
+                        {
+                            "name":  "5 star",
+                            "count":  4335000
+                        },
+                        {
+                            "name":  "4 star",
+                            "count":  3400000
+                        },
+                        {
+                            "name":  "3 star",
+                            "count":  510000
+                        },
+                        {
+                            "name":  "2 star",
+                            "count":  170000
+                        },
+                        {
+                            "name":  "1 star",
+                            "count":  85000
+                        }
+                    ]
+    },
+    {
+        "image":  "/Apps/vscode.svg",
+        "title":  "Visual Studio Code",
+        "companyName":  "Microsoft Corporation",
+        "id":  3,
+        "description":  "Powerful code editor with IntelliSense, debugging, and Git integration. Perfect for developers of all skill levels working with any programming language. Features built-in terminal, smart code completion, and syntax highlighting for hundreds of languages. Extend functionality with thousands of extensions from the marketplace. Collaborate in real-time with Live Share feature. Lightweight yet powerful enough for professional development with customizable themes and keybindings.",
+        "size":  125.7,
+        "reviews":  5600000,
+        "ratingAvg":  4.8,
+        "downloads":  850000000,
+        "ratings":  [
+                        {
+                            "name":  "5 star",
+                            "count":  3556000
+                        },
+                        {
+                            "name":  "4 star",
+                            "count":  1680000
+                        },
+                        {
+                            "name":  "3 star",
+                            "count":  280000
+                        },
+                        {
+                            "name":  "2 star",
+                            "count":  56000
+                        },
+                        {
+                            "name":  "1 star",
+                            "count":  28000
+                        }
+                    ]
+    },
+    {
+        "image":  "/Apps/visual studio.svg",
+        "title":  "Visual Studio",
+        "companyName":  "Microsoft Corporation",
+        "id":  4,
+        "description":  "Comprehensive IDE for .NET and C++ development. Build, debug, and deploy applications efficiently with enterprise-grade tools. Offers advanced debugging capabilities including breakpoints, watch windows, and memory profiling. Integrated testing framework helps maintain code quality throughout development. Features powerful refactoring tools and code analysis to improve your codebase. Supports cross-platform development for Windows, web, mobile, and cloud applications.",
+        "size":  2456.8,
+        "reviews":  3200000,
+        "ratingAvg":  4.6,
+        "downloads":  450000000,
+        "ratings":  [
+                        {
+                            "name":  "5 star",
+                            "count":  1504000
+                        },
+                        {
+                            "name":  "4 star",
+                            "count":  1280000
+                        },
+                        {
+                            "name":  "3 star",
+                            "count":  320000
+                        },
+                        {
+                            "name":  "2 star",
+                            "count":  64000
+                        },
+                        {
+                            "name":  "1 star",
+                            "count":  32000
+                        }
+                    ]
+    },
+    {
+        "image":  "/Apps/JetBrains_IntelliJ_IDEA_Product_Icon.svg",
+        "title":  "IntelliJ IDEA",
+        "companyName":  "JetBrains",
+        "id":  5,
+        "description":  "Intelligent Java IDE with smart code completion. The best tool for Java development with deep code understanding. Features context-aware code suggestions and intelligent refactoring capabilities. Built-in tools for version control, database management, and application servers. Supports all major frameworks including Spring, Jakarta EE, and Micronaut. Offers superior debugging and testing tools for Java applications. Boost productivity with keyboard shortcuts and ergonomic design.",
+        "size":  845.2,
+        "reviews":  2100000,
+        "ratingAvg":  4.7,
+        "downloads":  280000000,
+        "ratings":  [
+                        {
+                            "name":  "5 star",
+                            "count":  987000
+                        },
+                        {
+                            "name":  "4 star",
+                            "count":  840000
+                        },
+                        {
+                            "name":  "3 star",
+                            "count":  210000
+                        },
+                        {
+                            "name":  "2 star",
+                            "count":  42000
+                        },
+                        {
+                            "name":  "1 star",
+                            "count":  21000
+                        }
+                    ]
+    },
+    {
+        "image":  "/Apps/PyCharm_Icon.svg",
+        "title":  "PyCharm",
+        "companyName":  "JetBrains",
+        "id":  6,
+        "description":  "Professional Python IDE for data science and web development. Code smarter, not harder with intelligent Python assistance. Features scientific tools including Jupyter notebook integration and support for major data libraries. Offers web development support for Django, Flask, and other popular frameworks. Smart code completion understands Python context and suggests relevant code. Built-in debugger and test runner streamline development workflow. Visual debugging for complex Python applications makes troubleshooting easier.",
+        "size":  678.4,
+        "reviews":  1850000,
+        "ratingAvg":  4.6,
+        "downloads":  225000000,
+        "ratings":  [
+                        {
+                            "name":  "5 star",
+                            "count":  869500
+                        },
+                        {
+                            "name":  "4 star",
+                            "count":  740000
+                        },
+                        {
+                            "name":  "3 star",
+                            "count":  185000
+                        },
+                        {
+                            "name":  "2 star",
+                            "count":  37000
+                        },
+                        {
+                            "name":  "1 star",
+                            "count":  18500
+                        }
+                    ]
+    },
+    {
+        "image":  "/Apps/anaconda-python-distribution-icon.png",
+        "title":  "Anaconda",
+        "companyName":  "Anaconda Inc.",
+        "id":  7,
+        "description":  "Python distribution for data science and machine learning. Includes 1,500+ packages pre-installed and ready to use. Conda package manager simplifies installing and managing scientific Python libraries. Comes with popular tools like Jupyter Notebook, Spyder IDE, and NumPy. Perfect environment for data analysis, machine learning, and scientific computing. Supports multiple Python versions and virtual environments for project isolation. Industry standard for data scientists and researchers worldwide.",
+        "size":  3456.9,
+        "reviews":  980000,
+        "ratingAvg":  4.5,
+        "downloads":  125000000,
+        "ratings":  [
+                        {
+                            "name":  "5 star",
+                            "count":  460600
+                        },
+                        {
+                            "name":  "4 star",
+                            "count":  392000
+                        },
+                        {
+                            "name":  "3 star",
+                            "count":  98000
+                        },
+                        {
+                            "name":  "2 star",
+                            "count":  19600
+                        },
+                        {
+                            "name":  "1 star",
+                            "count":  9800
+                        }
+                    ]
+    },
+    {
+        "image":  "/Apps/photoshop.png",
+        "title":  "Adobe Photoshop",
+        "companyName":  "Adobe Inc.",
+        "id":  8,
+        "description":  "Professional image editing software. Create stunning graphics and photos with industry-leading tools used by designers worldwide. Advanced layer-based editing system allows non-destructive workflow and unlimited creativity. AI-powered features like Content-Aware Fill and Neural Filters automate complex tasks. Support for RAW image formats and professional color management systems. Extensive brush engine and painting tools for digital artists. Seamless integration with Adobe Creative Cloud ecosystem for efficient collaboration.",
+        "size":  1987.5,
+        "reviews":  7800000,
+        "ratingAvg":  4.6,
+        "downloads":  650000000,
+        "ratings":  [
+                        {
+                            "name":  "5 star",
+                            "count":  3666000
+                        },
+                        {
+                            "name":  "4 star",
+                            "count":  3120000
+                        },
+                        {
+                            "name":  "3 star",
+                            "count":  780000
+                        },
+                        {
+                            "name":  "2 star",
+                            "count":  156000
+                        },
+                        {
+                            "name":  "1 star",
+                            "count":  78000
+                        }
+                    ]
+    },
+    {
+        "image":  "/Apps/illustrator.png",
+        "title":  "Adobe Illustrator",
+        "companyName":  "Adobe Inc.",
+        "id":  9,
+        "description":  "Vector graphics editor for logos, icons, and illustrations. Industry-standard design software for creating scalable artwork. Create graphics that remain crisp at any size from business cards to billboards. Precision drawing tools include pen tool, shape builders, and pathfinder operations. Typography controls allow for advanced text manipulation and custom lettering. Export to multiple formats including SVG, PDF, and EPS for various applications. Used by professional graphic designers, illustrators, and brand identity specialists.",
+        "size":  1756.3,
+        "reviews":  4200000,
+        "ratingAvg":  4.5,
+        "downloads":  420000000,
+        "ratings":  [
+                        {
+                            "name":  "5 star",
+                            "count":  1974000
+                        },
+                        {
+                            "name":  "4 star",
+                            "count":  1680000
+                        },
+                        {
+                            "name":  "3 star",
+                            "count":  420000
+                        },
+                        {
+                            "name":  "2 star",
+                            "count":  84000
+                        },
+                        {
+                            "name":  "1 star",
+                            "count":  42000
+                        }
+                    ]
+    },
+    {
+        "image":  "/Apps/premiere-pro.png",
+        "title":  "Adobe Premiere Pro",
+        "companyName":  "Adobe Inc.",
+        "id":  10,
+        "description":  "Professional video editing software. Create stunning videos with powerful editing tools used in Hollywood productions. Timeline-based editing with unlimited video and audio tracks for complex projects. Support for 8K footage and HDR video with advanced color grading capabilities. AI-powered features like Auto Reframe adapt content for different aspect ratios. Extensive audio editing tools and integration with Adobe Audition for sound design. Real-time collaboration features enable team-based video production workflows.",
+        "size":  2134.6,
+        "reviews":  5600000,
+        "ratingAvg":  4.6,
+        "downloads":  480000000,
+        "ratings":  [
+                        {
+                            "name":  "5 star",
+                            "count":  2632000
+                        },
+                        {
+                            "name":  "4 star",
+                            "count":  2240000
+                        },
+                        {
+                            "name":  "3 star",
+                            "count":  560000
+                        },
+                        {
+                            "name":  "2 star",
+                            "count":  112000
+                        },
+                        {
+                            "name":  "1 star",
+                            "count":  56000
+                        }
+                    ]
+    },
+    {
+        "image":  "/Apps/after-effects.png",
+        "title":  "Adobe After Effects",
+        "companyName":  "Adobe Inc.",
+        "id":  11,
+        "description":  "Motion graphics and visual effects software. Bring your creative vision to life with cinema-quality animations and effects. Create stunning title sequences, animated logos, and kinetic typography with ease. Advanced compositing tools allow seamless integration of CGI with live-action footage. Keyframe animation system provides precise control over every aspect of motion. Extensive plugin ecosystem including Red Giant and Video Copilot expands capabilities. Used by motion designers, VFX artists, and video producers worldwide.",
+        "size":  2045.8,
+        "reviews":  3900000,
+        "ratingAvg":  4.5,
+        "downloads":  360000000,
+        "ratings":  [
+                        {
+                            "name":  "5 star",
+                            "count":  1833000
+                        },
+                        {
+                            "name":  "4 star",
+                            "count":  1560000
+                        },
+                        {
+                            "name":  "3 star",
+                            "count":  390000
+                        },
+                        {
+                            "name":  "2 star",
+                            "count":  78000
+                        },
+                        {
+                            "name":  "1 star",
+                            "count":  39000
+                        }
+                    ]
+    },
+    {
+        "image":  "/Apps/xd.png",
+        "title":  "Adobe XD",
+        "companyName":  "Adobe Inc.",
+        "id":  12,
+        "description":  "UI/UX design and prototyping tool. Design, prototype, and share user experiences for web and mobile applications. Vector-based design tools create pixel-perfect interfaces that scale beautifully. Interactive prototypes with transitions and animations test user flows before development. Real-time collaboration allows teams to work together on designs simultaneously. Design systems and component libraries maintain consistency across large projects. Share prototypes with stakeholders for feedback without requiring software installation.",
+        "size":  456.7,
+        "reviews":  2800000,
+        "ratingAvg":  4.4,
+        "downloads":  310000000,
+        "ratings":  [
+                        {
+                            "name":  "5 star",
+                            "count":  1316000
+                        },
+                        {
+                            "name":  "4 star",
+                            "count":  1120000
+                        },
+                        {
+                            "name":  "3 star",
+                            "count":  280000
+                        },
+                        {
+                            "name":  "2 star",
+                            "count":  56000
+                        },
+                        {
+                            "name":  "1 star",
+                            "count":  28000
+                        }
+                    ]
+    },
+    {
+        "image":  "/Apps/indesign.png",
+        "title":  "Adobe InDesign",
+        "companyName":  "Adobe Inc.",
+        "id":  13,
+        "description":  "Desktop publishing software for print and digital media. Create beautiful layouts and designs for magazines, books, and brochures. Professional typography controls with OpenType support and advanced text formatting. Master pages and styles ensure consistency across multi-page documents. Integration with Adobe Stock and Creative Cloud Libraries streamlines asset management. Export to PDF, EPUB, and interactive digital formats for various publishing needs. Preflight tools and package features prepare files for professional printing.",
+        "size":  1234.5,
+        "reviews":  2100000,
+        "ratingAvg":  4.5,
+        "downloads":  240000000,
+        "ratings":  [
+                        {
+                            "name":  "5 star",
+                            "count":  987000
+                        },
+                        {
+                            "name":  "4 star",
+                            "count":  840000
+                        },
+                        {
+                            "name":  "3 star",
+                            "count":  210000
+                        },
+                        {
+                            "name":  "2 star",
+                            "count":  42000
+                        },
+                        {
+                            "name":  "1 star",
+                            "count":  21000
+                        }
+                    ]
+    },
+    {
+        "image":  "/Apps/photoshop-lightroom.png",
+        "title":  "Adobe Lightroom",
+        "companyName":  "Adobe Inc.",
+        "id":  14,
+        "description":  "Photo editing and organization software. Perfect for photographers and content creators managing large photo libraries. Non-destructive editing preserves original images while applying adjustments and filters. AI-powered auto settings analyze photos and suggest optimal adjustments instantly. Organize thousands of photos with keywords, ratings, and smart collections. Batch editing applies changes to multiple photos simultaneously for efficient workflow. Cloud sync keeps your photos and edits accessible across all devices.",
+        "size":  987.3,
+        "reviews":  5200000,
+        "ratingAvg":  4.6,
+        "downloads":  520000000,
+        "ratings":  [
+                        {
+                            "name":  "5 star",
+                            "count":  2444000
+                        },
+                        {
+                            "name":  "4 star",
+                            "count":  2080000
+                        },
+                        {
+                            "name":  "3 star",
+                            "count":  520000
+                        },
+                        {
+                            "name":  "2 star",
+                            "count":  104000
+                        },
+                        {
+                            "name":  "1 star",
+                            "count":  52000
+                        }
+                    ]
+    },
+    {
+        "image":  "/Apps/acrobat.png",
+        "title":  "Adobe Acrobat",
+        "companyName":  "Adobe Inc.",
+        "id":  15,
+        "description":  "PDF creator, editor, and reader. Work with PDFs like never before with the industry-standard PDF solution. Create PDFs from any application and convert PDFs to editable Word or Excel files. Edit text and images directly in PDF documents without original source files. Combine multiple files into single PDFs and organize pages effortlessly. Electronic signature features enable legally binding digital document signing. Advanced security options protect sensitive documents with passwords and encryption.",
+        "size":  678.9,
+        "reviews":  9800000,
+        "ratingAvg":  4.3,
+        "downloads":  1200000000,
+        "ratings":  [
+                        {
+                            "name":  "5 star",
+                            "count":  4606000
+                        },
+                        {
+                            "name":  "4 star",
+                            "count":  3920000
+                        },
+                        {
+                            "name":  "3 star",
+                            "count":  980000
+                        },
+                        {
+                            "name":  "2 star",
+                            "count":  196000
+                        },
+                        {
+                            "name":  "1 star",
+                            "count":  98000
+                        }
+                    ]
+    },
+    {
+        "image":  "/Apps/512px-DaVinci_Resolve_Studio.png",
+        "title":  "DaVinci Resolve",
+        "companyName":  "Blackmagic Design",
+        "id":  16,
+        "description":  "Professional video editing, color correction, and audio post-production. Hollywood-grade software used in feature films and TV shows worldwide. Industry-leading color grading tools with advanced primary and secondary correction capabilities. Multi-track timeline editor handles complex projects with unlimited video and audio layers. Fairlight audio engine provides professional mixing and mastering tools. Fusion visual effects compositor creates stunning motion graphics and VFX. Collaborative workflow allows multiple users to work on same project simultaneously.",
+        "size":  3567.4,
+        "reviews":  1850000,
+        "ratingAvg":  4.7,
+        "downloads":  145000000,
+        "ratings":  [
+                        {
+                            "name":  "5 star",
+                            "count":  869500
+                        },
+                        {
+                            "name":  "4 star",
+                            "count":  740000
+                        },
+                        {
+                            "name":  "3 star",
+                            "count":  185000
+                        },
+                        {
+                            "name":  "2 star",
+                            "count":  37000
+                        },
+                        {
+                            "name":  "1 star",
+                            "count":  18500
+                        }
+                    ]
+    },
+    {
+        "image":  "/Apps/capcut.png",
+        "title":  "CapCut",
+        "companyName":  "Bytedance",
+        "id":  17,
+        "description":  "Free video editing app with powerful features. Create viral content with ease using intuitive editing tools. Perfect for social media content creators on TikTok, Instagram, and YouTube. Extensive library of trending effects, filters, and transitions updated regularly. AI-powered features like auto-captions and background removal save time. Rich music library with thousands of royalty-free tracks and sound effects. Export videos in high quality up to 4K resolution without watermarks.",
+        "size":  234.6,
+        "reviews":  18500000,
+        "ratingAvg":  4.7,
+        "downloads":  2500000000,
+        "ratings":  [
+                        {
+                            "name":  "5 star",
+                            "count":  8695000
+                        },
+                        {
+                            "name":  "4 star",
+                            "count":  7400000
+                        },
+                        {
+                            "name":  "3 star",
+                            "count":  1850000
+                        },
+                        {
+                            "name":  "2 star",
+                            "count":  370000
+                        },
+                        {
+                            "name":  "1 star",
+                            "count":  185000
+                        }
+                    ]
+    },
+    {
+        "image":  "/Apps/canva-icon.png",
+        "title":  "Canva",
+        "companyName":  "Canva Pty Ltd",
+        "id":  18,
+        "description":  "Graphic design made easy. Create stunning designs with drag-and-drop simplicity, no design experience needed. Access thousands of professionally designed templates for social media, presentations, and marketing materials. Extensive library of stock photos, illustrations, icons, and fonts at your fingertips. Collaborate with team members in real-time on design projects. Brand kit feature maintains consistent colors, logos, and fonts across all designs. One-click resize adapts designs to different platforms and formats instantly.",
+        "size":  156.8,
+        "reviews":  25000000,
+        "ratingAvg":  4.8,
+        "downloads":  3500000000,
+        "ratings":  [
+                        {
+                            "name":  "5 star",
+                            "count":  11750000
+                        },
+                        {
+                            "name":  "4 star",
+                            "count":  10000000
+                        },
+                        {
+                            "name":  "3 star",
+                            "count":  2500000
+                        },
+                        {
+                            "name":  "2 star",
+                            "count":  500000
+                        },
+                        {
+                            "name":  "1 star",
+                            "count":  250000
+                        }
+                    ]
+    },
+    {
+        "image":  "/Apps/facebook.png",
+        "title":  "Facebook",
+        "companyName":  "Meta Platforms Inc.",
+        "id":  19,
+        "description":  "Connect with friends and family. Share photos, videos, and stay updated with people who matter most. Join groups and communities to connect with people who share your interests. Discover and follow pages from your favorite brands, celebrities, and organizations. Marketplace feature lets you buy and sell items locally within your community. Live video streaming connects you in real-time with friends and followers. Privacy controls help you manage who sees your posts and personal information.",
+        "size":  89.4,
+        "reviews":  85000000,
+        "ratingAvg":  3.8,
+        "downloads":  10000000000,
+        "ratings":  [
+                        {
+                            "name":  "5 star",
+                            "count":  25500000
+                        },
+                        {
+                            "name":  "4 star",
+                            "count":  25500000
+                        },
+                        {
+                            "name":  "3 star",
+                            "count":  17000000
+                        },
+                        {
+                            "name":  "2 star",
+                            "count":  8500000
+                        },
+                        {
+                            "name":  "1 star",
+                            "count":  8500000
+                        }
+                    ]
+    },
+    {
+        "image":  "/Apps/instagram.png",
+        "title":  "Instagram",
+        "companyName":  "Meta Platforms Inc.",
+        "id":  20,
+        "description":  "Share photos and videos with friends. Discover content from creators worldwide through an engaging visual platform. Stories feature lets you share moments that disappear after 24 hours. Reels allows you to create and discover short, entertaining videos. Direct messaging connects you privately with friends and followers. Advanced photo filters and editing tools enhance your images before posting. Explore page uses AI to show content tailored to your interests and preferences.",
+        "size":  67.3,
+        "reviews":  120000000,
+        "ratingAvg":  4.2,
+        "downloads":  8000000000,
+        "ratings":  [
+                        {
+                            "name":  "5 star",
+                            "count":  36000000
+                        },
+                        {
+                            "name":  "4 star",
+                            "count":  36000000
+                        },
+                        {
+                            "name":  "3 star",
+                            "count":  24000000
+                        },
+                        {
+                            "name":  "2 star",
+                            "count":  12000000
+                        },
+                        {
+                            "name":  "1 star",
+                            "count":  12000000
+                        }
+                    ]
+    },
+    {
+        "image":  "/Apps/whatsapp.png",
+        "title":  "WhatsApp",
+        "companyName":  "Meta Platforms Inc.",
+        "id":  21,
+        "description":  "Simple, secure messaging and calling. Connect with anyone, anywhere in the world with end-to-end encryption. Send text messages, voice messages, photos, and videos instantly over internet connection. Free voice and video calls work even with international contacts. Group chats support up to 256 participants for family and team communication. WhatsApp Web and Desktop apps sync conversations across all your devices. Business accounts enable companies to provide customer support and share catalogs.",
+        "size":  54.2,
+        "reviews":  95000000,
+        "ratingAvg":  4.4,
+        "downloads":  12000000000,
+        "ratings":  [
+                        {
+                            "name":  "5 star",
+                            "count":  28500000
+                        },
+                        {
+                            "name":  "4 star",
+                            "count":  28500000
+                        },
+                        {
+                            "name":  "3 star",
+                            "count":  19000000
+                        },
+                        {
+                            "name":  "2 star",
+                            "count":  9500000
+                        },
+                        {
+                            "name":  "1 star",
+                            "count":  9500000
+                        }
+                    ]
+    },
+    {
+        "image":  "/Apps/youtube.png",
+        "title":  "YouTube",
+        "companyName":  "Google LLC",
+        "id":  22,
+        "description":  "Watch, create, and share videos. The world's largest video platform with billions of hours of content. Discover everything from music videos and tutorials to documentaries and live streams. Subscribe to your favorite channels and get notified of new uploads. YouTube Premium offers ad-free viewing and background playback on mobile devices. Create and upload your own content to share your passion with the world. Personalized recommendations help you discover new content based on your interests.",
+        "size":  112.5,
+        "reviews":  145000000,
+        "ratingAvg":  4.3,
+        "downloads":  15000000000,
+        "ratings":  [
+                        {
+                            "name":  "5 star",
+                            "count":  43500000
+                        },
+                        {
+                            "name":  "4 star",
+                            "count":  43500000
+                        },
+                        {
+                            "name":  "3 star",
+                            "count":  29000000
+                        },
+                        {
+                            "name":  "2 star",
+                            "count":  14500000
+                        },
+                        {
+                            "name":  "1 star",
+                            "count":  14500000
+                        }
+                    ]
+    },
+    {
+        "image":  "/Apps/netflix.png",
+        "title":  "Netflix",
+        "companyName":  "Netflix Inc.",
+        "id":  23,
+        "description":  "Watch TV shows and movies. Unlimited streaming of thousands of titles across all genres and languages. Award-winning original content including series, films, and documentaries exclusive to Netflix. Download titles for offline viewing when traveling or without internet connection. Multiple profiles allow family members to have personalized recommendations and watch lists. Stream on multiple devices simultaneously depending on your subscription plan. New content added regularly keeps your entertainment options fresh and exciting.",
+        "size":  78.9,
+        "reviews":  42000000,
+        "ratingAvg":  4.5,
+        "downloads":  3500000000,
+        "ratings":  [
+                        {
+                            "name":  "5 star",
+                            "count":  12600000
+                        },
+                        {
+                            "name":  "4 star",
+                            "count":  12600000
+                        },
+                        {
+                            "name":  "3 star",
+                            "count":  8400000
+                        },
+                        {
+                            "name":  "2 star",
+                            "count":  4200000
+                        },
+                        {
+                            "name":  "1 star",
+                            "count":  4200000
+                        }
+                    ]
+    },
+    {
+        "image":  "/Apps/spotify.png",
+        "title":  "Spotify",
+        "companyName":  "Spotify AB",
+        "id":  24,
+        "description":  "Music and podcasts streaming service. Millions of songs at your fingertips from every genre imaginable. Discover new music through personalized playlists like Discover Weekly and Release Radar. Podcast library includes exclusive shows and popular series from around the world. Create and share playlists with friends or collaborate on shared playlists. Download music for offline listening when you're without internet connection. High-quality audio streaming with Spotify Premium for audiophile experience.",
+        "size":  45.6,
+        "reviews":  38000000,
+        "ratingAvg":  4.4,
+        "downloads":  4200000000,
+        "ratings":  [
+                        {
+                            "name":  "5 star",
+                            "count":  11400000
+                        },
+                        {
+                            "name":  "4 star",
+                            "count":  11400000
+                        },
+                        {
+                            "name":  "3 star",
+                            "count":  7600000
+                        },
+                        {
+                            "name":  "2 star",
+                            "count":  3800000
+                        },
+                        {
+                            "name":  "1 star",
+                            "count":  3800000
+                        }
+                    ]
+    },
+    {
+        "image":  "/Apps/discord.png",
+        "title":  "Discord",
+        "companyName":  "Discord Inc.",
+        "id":  25,
+        "description":  "Chat, talk, and hang out. Your place to talk with communities and friends through voice, video, and text. Create or join servers dedicated to gaming, hobbies, education, or any interest. Voice channels provide crystal-clear audio for gaming sessions and group conversations. Screen sharing and Go Live features let you share your gaming or creative work. Organize conversations with channels and categories for different topics within servers. Rich media sharing supports images, videos, GIFs, and file attachments up to large sizes.",
+        "size":  92.3,
+        "reviews":  28000000,
+        "ratingAvg":  4.6,
+        "downloads":  1500000000,
+        "ratings":  [
+                        {
+                            "name":  "5 star",
+                            "count":  8400000
+                        },
+                        {
+                            "name":  "4 star",
+                            "count":  8400000
+                        },
+                        {
+                            "name":  "3 star",
+                            "count":  5600000
+                        },
+                        {
+                            "name":  "2 star",
+                            "count":  2800000
+                        },
+                        {
+                            "name":  "1 star",
+                            "count":  2800000
+                        }
+                    ]
+    },
+    {
+        "image":  "/Apps/telegram-icon.png",
+        "title":  "Telegram",
+        "companyName":  "Telegram FZ-LLC",
+        "id":  26,
+        "description":  "Fast, secure messaging app. Cloud-based with powerful features for modern communication needs. Messages sync seamlessly across all your devices from phones to desktops. Secret chats offer end-to-end encryption with self-destruct timers for sensitive conversations. Channels allow broadcasting to unlimited audiences while groups support up to 200,000 members. Share files up to 2GB each including videos, documents, and media. Bot platform enables automation and integration with various services and tools.",
+        "size":  56.7,
+        "reviews":  32000000,
+        "ratingAvg":  4.5,
+        "downloads":  2800000000,
+        "ratings":  [
+                        {
+                            "name":  "5 star",
+                            "count":  9600000
+                        },
+                        {
+                            "name":  "4 star",
+                            "count":  9600000
+                        },
+                        {
+                            "name":  "3 star",
+                            "count":  6400000
+                        },
+                        {
+                            "name":  "2 star",
+                            "count":  3200000
+                        },
+                        {
+                            "name":  "1 star",
+                            "count":  3200000
+                        }
+                    ]
+    },
+    {
+        "image":  "/Apps/slack-icon.png",
+        "title":  "Slack",
+        "companyName":  "Slack Technologies",
+        "id":  27,
+        "description":  "Team collaboration and messaging platform. Where work happens with organized channels and powerful integrations. Create channels for projects, teams, or topics to keep conversations organized and searchable. Direct messages and group DMs facilitate quick one-on-one or small group conversations. Integrate with thousands of apps including Google Drive, Trello, and GitHub. Search functionality finds messages, files, and conversations from your entire workspace history. Video calls and screen sharing enable remote collaboration and team meetings. File sharing and collaborative editing keep all work materials in one accessible place.",
+        "size":  134.2,
+        "reviews":  8500000,
+        "ratingAvg":  4.5,
+        "downloads":  650000000,
+        "ratings":  [
+                        {
+                            "name":  "5 star",
+                            "count":  2550000
+                        },
+                        {
+                            "name":  "4 star",
+                            "count":  2550000
+                        },
+                        {
+                            "name":  "3 star",
+                            "count":  1700000
+                        },
+                        {
+                            "name":  "2 star",
+                            "count":  850000
+                        },
+                        {
+                            "name":  "1 star",
+                            "count":  850000
+                        }
+                    ]
+    },
+    {
+        "image":  "/Apps/Teams.png",
+        "title":  "Microsoft Teams",
+        "companyName":  "Microsoft Corporation",
+        "id":  28,
+        "description":  "Chat, meet, call, and collaborate. All in one place for teamwork integrated with Microsoft 365. Hold video meetings with up to 300 participants and advanced features like breakout rooms. Channels organize team conversations while private chats keep discussions focused. Real-time collaboration on Office documents directly within Teams interface. Share screens and present PowerPoint slides during meetings for effective presentations. Integration with Planner, OneNote, and other Microsoft apps streamlines workflow. Record meetings and access transcripts for team members who couldn't attend.",
+        "size":  156.8,
+        "reviews":  12500000,
+        "ratingAvg":  4.3,
+        "downloads":  980000000,
+        "ratings":  [
+                        {
+                            "name":  "5 star",
+                            "count":  3750000
+                        },
+                        {
+                            "name":  "4 star",
+                            "count":  3750000
+                        },
+                        {
+                            "name":  "3 star",
+                            "count":  2500000
+                        },
+                        {
+                            "name":  "2 star",
+                            "count":  1250000
+                        },
+                        {
+                            "name":  "1 star",
+                            "count":  1250000
+                        }
+                    ]
+    },
+    {
+        "image":  "/Apps/zoom.png",
+        "title":  "Zoom",
+        "companyName":  "Zoom Video Communications",
+        "id":  29,
+        "description":  "Video conferencing and messaging. Connect from anywhere on any device with reliable HD video quality. Host webinars and virtual events with up to 1,000 participants or more. Virtual backgrounds and appearance filters help you look professional from anywhere. Breakout rooms divide large meetings into smaller discussion groups. Screen sharing with annotation tools enables collaborative presentations and training. Recording capabilities save meetings to cloud or local storage for later review. Waiting rooms and passwords provide security for sensitive meetings.",
+        "size":  98.4,
+        "reviews":  18500000,
+        "ratingAvg":  4.4,
+        "downloads":  1850000000,
+        "ratings":  [
+                        {
+                            "name":  "5 star",
+                            "count":  5550000
+                        },
+                        {
+                            "name":  "4 star",
+                            "count":  5550000
+                        },
+                        {
+                            "name":  "3 star",
+                            "count":  3700000
+                        },
+                        {
+                            "name":  "2 star",
+                            "count":  1850000
+                        },
+                        {
+                            "name":  "1 star",
+                            "count":  1850000
+                        }
+                    ]
+    },
+    {
+        "image":  "/Apps/outlook.png",
+        "title":  "Microsoft Outlook",
+        "companyName":  "Microsoft Corporation",
+        "id":  30,
+        "description":  "Email and calendar app. Manage your email, schedule, and contacts efficiently in one integrated platform. Focused Inbox automatically sorts important emails from the rest for better productivity. Calendar integration helps schedule meetings and manage appointments with ease. Task management features keep track of to-do items alongside your emails. Support for multiple email accounts from various providers in single interface. Smart search finds emails, attachments, and calendar events quickly. Mobile apps sync seamlessly with desktop for access anywhere.",
+        "size":  145.3,
+        "reviews":  15500000,
+        "ratingAvg":  4.4,
+        "downloads":  1200000000,
+        "ratings":  [
+                        {
+                            "name":  "5 star",
+                            "count":  4650000
+                        },
+                        {
+                            "name":  "4 star",
+                            "count":  4650000
+                        },
+                        {
+                            "name":  "3 star",
+                            "count":  3100000
+                        },
+                        {
+                            "name":  "2 star",
+                            "count":  1550000
+                        },
+                        {
+                            "name":  "1 star",
+                            "count":  1550000
+                        }
+                    ]
+    },
+    {
+        "image":  "/Apps/google-drive.png",
+        "title":  "Google Drive",
+        "companyName":  "Google LLC",
+        "id":  31,
+        "description":  "Cloud storage and file backup. Access your files anywhere, anytime from any connected device. Generous free storage space with options to upgrade for more capacity. Real-time collaboration on Google Docs, Sheets, and Slides with team members. Automatic backup keeps your important files safe from device failures. Share files and folders with customizable permissions for view, comment, or edit access. Powerful search helps you find files quickly using keywords or file types. Offline mode allows you to access important files without internet connection.",
+        "size":  67.8,
+        "reviews":  42000000,
+        "ratingAvg":  4.5,
+        "downloads":  5500000000,
+        "ratings":  [
+                        {
+                            "name":  "5 star",
+                            "count":  12600000
+                        },
+                        {
+                            "name":  "4 star",
+                            "count":  12600000
+                        },
+                        {
+                            "name":  "3 star",
+                            "count":  8400000
+                        },
+                        {
+                            "name":  "2 star",
+                            "count":  4200000
+                        },
+                        {
+                            "name":  "1 star",
+                            "count":  4200000
+                        }
+                    ]
+    },
+    {
+        "image":  "/Apps/dropbox.png",
+        "title":  "Dropbox",
+        "companyName":  "Dropbox Inc.",
+        "id":  32,
+        "description":  "Cloud storage and file synchronization. Keep your files safe and accessible across all your devices. Automatic syncing ensures your files are always up to date everywhere. File recovery and version history protect against accidental deletions or changes. Share large files and folders with anyone via simple shareable links. Dropbox Paper provides collaborative workspace for team documentation and notes. Smart Sync saves hard drive space by keeping files in cloud until needed. Advanced security features including two-factor authentication protect your data.",
+        "size":  89.2,
+        "reviews":  18500000,
+        "ratingAvg":  4.4,
+        "downloads":  1850000000,
+        "ratings":  [
+                        {
+                            "name":  "5 star",
+                            "count":  5550000
+                        },
+                        {
+                            "name":  "4 star",
+                            "count":  5550000
+                        },
+                        {
+                            "name":  "3 star",
+                            "count":  3700000
+                        },
+                        {
+                            "name":  "2 star",
+                            "count":  1850000
+                        },
+                        {
+                            "name":  "1 star",
+                            "count":  1850000
+                        }
+                    ]
+    },
+    {
+        "image":  "/Apps/chatgpt.png",
+        "title":  "ChatGPT",
+        "companyName":  "OpenAI",
+        "id":  33,
+        "description":  "AI-powered conversational assistant. Get answers, generate content, and boost productivity with advanced language model. Ask questions on any topic and receive detailed, informative responses instantly. Generate creative content including stories, poems, code, and marketing copy. Assist with learning and research by explaining complex topics in simple terms. Brainstorm ideas and solutions for personal or professional challenges. Debug code and get programming help in multiple languages. Available on web and mobile for assistance wherever you need it.",
+        "size":  45.3,
+        "reviews":  8500000,
+        "ratingAvg":  4.7,
+        "downloads":  850000000,
+        "ratings":  [
+                        {
+                            "name":  "5 star",
+                            "count":  2550000
+                        },
+                        {
+                            "name":  "4 star",
+                            "count":  2550000
+                        },
+                        {
+                            "name":  "3 star",
+                            "count":  1700000
+                        },
+                        {
+                            "name":  "2 star",
+                            "count":  850000
+                        },
+                        {
+                            "name":  "1 star",
+                            "count":  850000
+                        }
+                    ]
+    },
+    {
+        "image":  "/Apps/microsoft-365-copilot-seeklogo.png",
+        "title":  "Microsoft 365 Copilot",
+        "companyName":  "Microsoft Corporation",
+        "id":  34,
+        "description":  "AI assistant for Microsoft 365. Boost your productivity with intelligent assistance across all Office apps. Generate document drafts, presentations, and emails from simple prompts in seconds. Analyze data and create insights in Excel with natural language commands. Summarize meetings and action items automatically in Teams. Transform ideas into professional PowerPoint presentations with AI-generated designs. Get intelligent suggestions and automate repetitive tasks across your workflow. Integrated seamlessly with your existing Microsoft 365 subscription and tools.",
+        "size":  234.7,
+        "reviews":  2100000,
+        "ratingAvg":  4.5,
+        "downloads":  185000000,
+        "ratings":  [
+                        {
+                            "name":  "5 star",
+                            "count":  630000
+                        },
+                        {
+                            "name":  "4 star",
+                            "count":  630000
+                        },
+                        {
+                            "name":  "3 star",
+                            "count":  420000
+                        },
+                        {
+                            "name":  "2 star",
+                            "count":  210000
+                        },
+                        {
+                            "name":  "1 star",
+                            "count":  210000
+                        }
+                    ]
+    },
+    {
+        "image":  "/Apps/microsoft.png",
+        "title":  "Microsoft 365",
+        "companyName":  "Microsoft Corporation",
+        "id":  35,
+        "description":  "Office suite with Word, Excel, PowerPoint, and more. Productivity apps for everyone from students to professionals. Create professional documents, spreadsheets, and presentations with industry-standard tools. Cloud storage with OneDrive keeps your files accessible from anywhere. Real-time collaboration allows multiple people to work on same document simultaneously. Regular updates bring new features and security improvements automatically. Works seamlessly across Windows, Mac, web, iOS, and Android platforms. Includes additional apps like OneNote, Publisher, and Access for comprehensive productivity.",
+        "size":  2345.6,
+        "reviews":  28000000,
+        "ratingAvg":  4.5,
+        "downloads":  2100000000,
+        "ratings":  [
+                        {
+                            "name":  "5 star",
+                            "count":  8400000
+                        },
+                        {
+                            "name":  "4 star",
+                            "count":  8400000
+                        },
+                        {
+                            "name":  "3 star",
+                            "count":  5600000
+                        },
+                        {
+                            "name":  "2 star",
+                            "count":  2800000
+                        },
+                        {
+                            "name":  "1 star",
+                            "count":  2800000
+                        }
+                    ]
+    },
+    {
+        "image":  "/Apps/window.png",
+        "title":  "Windows 11",
+        "companyName":  "Microsoft Corporation",
+        "id":  36,
+        "description":  "The latest Windows operating system. Beautiful design with powerful features for modern computing. Redesigned Start menu and taskbar provide cleaner, more centered interface. Snap Layouts help organize multiple windows for efficient multitasking. Enhanced gaming features including DirectStorage and Auto HDR improve performance. Virtual desktops allow you to create separate workspaces for different tasks. Microsoft Store offers wider range of apps including Android apps support. Built-in security features like Windows Hello and BitLocker protect your data.",
+        "size":  5678.9,
+        "reviews":  38000000,
+        "ratingAvg":  4.3,
+        "downloads":  1500000000,
+        "ratings":  [
+                        {
+                            "name":  "5 star",
+                            "count":  11400000
+                        },
+                        {
+                            "name":  "4 star",
+                            "count":  11400000
+                        },
+                        {
+                            "name":  "3 star",
+                            "count":  7600000
+                        },
+                        {
+                            "name":  "2 star",
+                            "count":  3800000
+                        },
+                        {
+                            "name":  "1 star",
+                            "count":  3800000
+                        }
+                    ]
+    },
+    {
+        "image":  "/Apps/linkedin.png",
+        "title":  "LinkedIn",
+        "companyName":  "Microsoft Corporation",
+        "id":  37,
+        "description":  "Professional networking platform. Connect with colleagues and grow your career opportunities worldwide. Build your professional profile showcasing experience, skills, and achievements. Network with professionals in your industry and discover job opportunities. Share and discover professional content, articles, and industry insights. LinkedIn Learning offers thousands of courses for skill development. Recruit talent or find your next career move through job postings. Receive endorsements and recommendations to strengthen your professional credibility.",
+        "size":  78.4,
+        "reviews":  32000000,
+        "ratingAvg":  4.4,
+        "downloads":  2800000000,
+        "ratings":  [
+                        {
+                            "name":  "5 star",
+                            "count":  9600000
+                        },
+                        {
+                            "name":  "4 star",
+                            "count":  9600000
+                        },
+                        {
+                            "name":  "3 star",
+                            "count":  6400000
+                        },
+                        {
+                            "name":  "2 star",
+                            "count":  3200000
+                        },
+                        {
+                            "name":  "1 star",
+                            "count":  3200000
+                        }
+                    ]
+    },
+    {
+        "image":  "/Apps/x-social-media-round-icon.png",
+        "title":  "X (Twitter)",
+        "companyName":  "X Corp.",
+        "id":  38,
+        "description":  "Social media platform for real-time updates. Share thoughts and connect globally with millions of users. Post short messages, images, videos, and links to share your perspective. Follow accounts to stay updated on news, trends, and topics you care about. Trending topics show what's happening in the world right now. Spaces feature enables live audio conversations with followers and communities. Direct messages allow private conversations with individuals or groups. Repost and quote posts to join conversations and share content with your followers.",
+        "size":  56.8,
+        "reviews":  48000000,
+        "ratingAvg":  3.9,
+        "downloads":  3500000000,
+        "ratings":  [
+                        {
+                            "name":  "5 star",
+                            "count":  14400000
+                        },
+                        {
+                            "name":  "4 star",
+                            "count":  14400000
+                        },
+                        {
+                            "name":  "3 star",
+                            "count":  9600000
+                        },
+                        {
+                            "name":  "2 star",
+                            "count":  4800000
+                        },
+                        {
+                            "name":  "1 star",
+                            "count":  4800000
+                        }
+                    ]
+    },
+    {
+        "image":  "/Apps/reddit-icon.png",
+        "title":  "Reddit",
+        "companyName":  "Reddit Inc.",
+        "id":  39,
+        "description":  "The front page of the internet. Join communities and discuss anything with like-minded people. Thousands of subreddits cover every topic imaginable from hobbies to news. Upvote and downvote system surfaces the best content to the top. AMAs (Ask Me Anything) connect you directly with celebrities, experts, and interesting people. Share links, images, videos, and text posts to spark discussions. Anonymous posting allows you to participate without revealing personal identity. Award system recognizes exceptional content and contributions to discussions.",
+        "size":  67.9,
+        "reviews":  22000000,
+        "ratingAvg":  4.4,
+        "downloads":  1850000000,
+        "ratings":  [
+                        {
+                            "name":  "5 star",
+                            "count":  6600000
+                        },
+                        {
+                            "name":  "4 star",
+                            "count":  6600000
+                        },
+                        {
+                            "name":  "3 star",
+                            "count":  4400000
+                        },
+                        {
+                            "name":  "2 star",
+                            "count":  2200000
+                        },
+                        {
+                            "name":  "1 star",
+                            "count":  2200000
+                        }
+                    ]
+    },
+    {
+        "image":  "/Apps/pinterest-round-color-icon.png",
+        "title":  "Pinterest",
+        "companyName":  "Pinterest Inc.",
+        "id":  40,
+        "description":  "Discover and save creative ideas. Find inspiration for your next project from millions of users worldwide. Visual search engine helps you find ideas for recipes, home decor, fashion, and more. Create boards to organize and save ideas for different projects and interests. Shop directly from pins with integrated purchasing features. Get personalized recommendations based on your interests and saved pins. Collaborate on group boards to plan events or projects with friends. Try on features and visualization tools help you see ideas in your space.",
+        "size":  45.2,
+        "reviews":  28000000,
+        "ratingAvg":  4.5,
+        "downloads":  2500000000,
+        "ratings":  [
+                        {
+                            "name":  "5 star",
+                            "count":  8400000
+                        },
+                        {
+                            "name":  "4 star",
+                            "count":  8400000
+                        },
+                        {
+                            "name":  "3 star",
+                            "count":  5600000
+                        },
+                        {
+                            "name":  "2 star",
+                            "count":  2800000
+                        },
+                        {
+                            "name":  "1 star",
+                            "count":  2800000
+                        }
+                    ]
+    },
+    {
+        "image":  "/Apps/twitch-color-icon.png",
+        "title":  "Twitch",
+        "companyName":  "Amazon.com Inc.",
+        "id":  41,
+        "description":  "Live streaming platform for gamers. Watch, chat, and interact with streamers in real-time entertainment. Watch live gameplay from professional gamers and entertaining personalities worldwide. Interactive chat allows you to engage directly with streamers and community. Subscribe to favorite channels to support creators and unlock exclusive perks. Clips and highlights let you save and share best moments from streams. Browse thousands of gaming categories from esports to creative content. Mobile streaming allows broadcasters to go live from anywhere with their phone.",
+        "size":  89.7,
+        "reviews":  18500000,
+        "ratingAvg":  4.4,
+        "downloads":  1500000000,
+        "ratings":  [
+                        {
+                            "name":  "5 star",
+                            "count":  5550000
+                        },
+                        {
+                            "name":  "4 star",
+                            "count":  5550000
+                        },
+                        {
+                            "name":  "3 star",
+                            "count":  3700000
+                        },
+                        {
+                            "name":  "2 star",
+                            "count":  1850000
+                        },
+                        {
+                            "name":  "1 star",
+                            "count":  1850000
+                        }
+                    ]
+    },
+    {
+        "image":  "/Apps/soundcloud.png",
+        "title":  "SoundCloud",
+        "companyName":  "SoundCloud Global Limited",
+        "id":  42,
+        "description":  "Music streaming and audio platform. Discover emerging artists and trending tracks before they go mainstream. Upload and share your own music and audio creations with global audience. Discover underground and independent artists not found on other platforms. Comment on specific timestamps to engage directly with artists and listeners. Create and share playlists to curate your favorite tracks and discoveries. Repost feature helps you share music you love with your followers. SoundCloud Go+ offers offline listening and ad-free experience with millions of tracks.",
+        "size":  52.3,
+        "reviews":  12500000,
+        "ratingAvg":  4.3,
+        "downloads":  850000000,
+        "ratings":  [
+                        {
+                            "name":  "5 star",
+                            "count":  3750000
+                        },
+                        {
+                            "name":  "4 star",
+                            "count":  3750000
+                        },
+                        {
+                            "name":  "3 star",
+                            "count":  2500000
+                        },
+                        {
+                            "name":  "2 star",
+                            "count":  1250000
+                        },
+                        {
+                            "name":  "1 star",
+                            "count":  1250000
+                        }
+                    ]
+    },
+    {
+        "image":  "/Apps/behance.png",
+        "title":  "Behance",
+        "companyName":  "Adobe Inc.",
+        "id":  43,
+        "description":  "Showcase and discover creative work. Platform for designers and artists to display their portfolios. Share your creative projects and get feedback from global design community. Discover inspiring work from graphic designers, illustrators, and photographers worldwide. Build your portfolio to attract clients and career opportunities. Follow creatives and get updates on their latest projects and work. Integration with Adobe Creative Cloud simplifies publishing from design apps. Job listings connect talented creatives with companies seeking design professionals.",
+        "size":  38.9,
+        "reviews":  5600000,
+        "ratingAvg":  4.5,
+        "downloads":  420000000,
+        "ratings":  [
+                        {
+                            "name":  "5 star",
+                            "count":  1680000
+                        },
+                        {
+                            "name":  "4 star",
+                            "count":  1680000
+                        },
+                        {
+                            "name":  "3 star",
+                            "count":  1120000
+                        },
+                        {
+                            "name":  "2 star",
+                            "count":  560000
+                        },
+                        {
+                            "name":  "1 star",
+                            "count":  560000
+                        }
+                    ]
+    },
+    {
+        "image":  "/Apps/amazon-icon.png",
+        "title":  "Amazon Shopping",
+        "companyName":  "Amazon.com Inc.",
+        "id":  44,
+        "description":  "Online shopping marketplace. Shop millions of products with fast delivery from the world's largest retailer. Browse everything from electronics and fashion to groceries and home essentials. Prime membership offers free two-day shipping and exclusive deals on thousands of items. Customer reviews and ratings help you make informed purchasing decisions. Wish lists and shopping lists help you save items for later purchase. Track orders in real-time and manage returns easily through the app. Personalized recommendations suggest products based on your browsing and purchase history.",
+        "size":  78.5,
+        "reviews":  65000000,
+        "ratingAvg":  4.5,
+        "downloads":  7500000000,
+        "ratings":  [
+                        {
+                            "name":  "5 star",
+                            "count":  19500000
+                        },
+                        {
+                            "name":  "4 star",
+                            "count":  19500000
+                        },
+                        {
+                            "name":  "3 star",
+                            "count":  13000000
+                        },
+                        {
+                            "name":  "2 star",
+                            "count":  6500000
+                        },
+                        {
+                            "name":  "1 star",
+                            "count":  6500000
+                        }
+                    ]
+    },
+    {
+        "image":  "/Apps/uber.png",
+        "title":  "Uber",
+        "companyName":  "Uber Technologies Inc.",
+        "id":  45,
+        "description":  "Ride-hailing and food delivery service. Get a ride or order food in minutes with just a few taps. Request rides from economy options to premium vehicles based on your needs. Track your driver's location in real-time and see estimated arrival time. Cashless payments with automatic billing through saved payment methods. Safety features include driver information, trip sharing, and emergency assistance. Uber Eats delivers food from thousands of local restaurants to your doorstep. Schedule rides in advance for important appointments or early morning flights.",
+        "size":  89.4,
+        "reviews":  42000000,
+        "ratingAvg":  4.3,
+        "downloads":  3800000000,
+        "ratings":  [
+                        {
+                            "name":  "5 star",
+                            "count":  12600000
+                        },
+                        {
+                            "name":  "4 star",
+                            "count":  12600000
+                        },
+                        {
+                            "name":  "3 star",
+                            "count":  8400000
+                        },
+                        {
+                            "name":  "2 star",
+                            "count":  4200000
+                        },
+                        {
+                            "name":  "1 star",
+                            "count":  4200000
+                        }
+                    ]
+    },
+    {
+        "image":  "/Apps/paypal.png",
+        "title":  "PayPal",
+        "companyName":  "PayPal Holdings Inc.",
+        "id":  46,
+        "description":  "Digital payment platform. Send money and shop online securely without sharing financial information. Transfer money to friends and family instantly with just an email address or phone number. Pay at millions of online stores without entering card details every time. Request money from others with customizable payment requests and reminders. Buyer protection covers eligible purchases if items don't arrive or match description. Link multiple cards and bank accounts for flexible payment options. International transfers make sending money abroad easier with competitive exchange rates.",
+        "size":  67.2,
+        "reviews":  35000000,
+        "ratingAvg":  4.4,
+        "downloads":  2800000000,
+        "ratings":  [
+                        {
+                            "name":  "5 star",
+                            "count":  10500000
+                        },
+                        {
+                            "name":  "4 star",
+                            "count":  10500000
+                        },
+                        {
+                            "name":  "3 star",
+                            "count":  7000000
+                        },
+                        {
+                            "name":  "2 star",
+                            "count":  3500000
+                        },
+                        {
+                            "name":  "1 star",
+                            "count":  3500000
+                        }
+                    ]
+    },
+    {
+        "image":  "/Apps/bkash.png",
+        "title":  "bKash",
+        "companyName":  "bKash Limited",
+        "id":  47,
+        "description":  "Mobile financial service. Send money, pay bills, and shop online in Bangladesh with the leading mobile wallet. Send money instantly to any bKash user using just their mobile number. Pay utility bills, mobile recharges, and internet bills without visiting payment centers. Cash in and cash out at thousands of agent points across Bangladesh. Shop online and pay at merchant stores using QR code scanning. Check balance and transaction history anytime from your mobile device. Save money feature helps you set aside funds for future goals. Secure transactions with PIN protection and biometric authentication.",
+        "size":  34.6,
+        "reviews":  8500000,
+        "ratingAvg":  4.2,
+        "downloads":  650000000,
+        "ratings":  [
+                        {
+                            "name":  "5 star",
+                            "count":  2550000
+                        },
+                        {
+                            "name":  "4 star",
+                            "count":  2550000
+                        },
+                        {
+                            "name":  "3 star",
+                            "count":  1700000
+                        },
+                        {
+                            "name":  "2 star",
+                            "count":  850000
+                        },
+                        {
+                            "name":  "1 star",
+                            "count":  850000
+                        }
+                    ]
+    },
+    {
+        "image":  "/Apps/player.png",
+        "title":  "VLC Media Player",
+        "companyName":  "VideoLAN",
+        "id":  48,
+        "description":  "Free multimedia player. Play any video or audio file format without installing additional codecs. Supports virtually all media formats including MKV, MP4, AVI, FLV, and more. Lightweight and fast with minimal system resource usage even with high-quality videos. Advanced playback controls including speed adjustment, audio/subtitle sync, and video effects. Stream online content and network streams from various sources. Convert and save media files to different formats with built-in conversion tools. Completely free and open-source with no ads or spyware.",
+        "size":  45.8,
+        "reviews":  28000000,
+        "ratingAvg":  4.7,
+        "downloads":  3500000000,
+        "ratings":  [
+                        {
+                            "name":  "5 star",
+                            "count":  8400000
+                        },
+                        {
+                            "name":  "4 star",
+                            "count":  8400000
+                        },
+                        {
+                            "name":  "3 star",
+                            "count":  5600000
+                        },
+                        {
+                            "name":  "2 star",
+                            "count":  2800000
+                        },
+                        {
+                            "name":  "1 star",
+                            "count":  2800000
+                        }
+                    ]
+    },
+    {
+        "image":  "/Apps/todoist-icon.png",
+        "title":  "Todoist",
+        "companyName":  "Doist Inc.",
+        "id":  49,
+        "description":  "Task manager and to-do list app. Organize your work and life efficiently with powerful task management. Create tasks with due dates, priorities, and sub-tasks for complex projects. Organize tasks into projects and sections for better structure and clarity. Collaborative features allow sharing projects and assigning tasks to team members. Natural language input makes adding tasks quick and intuitive. Recurring tasks automate routine items like weekly meetings or monthly bills. Productivity tracking shows your progress and completion trends over time. Available across all platforms with seamless synchronization.",
+        "size":  28.4,
+        "reviews":  5600000,
+        "ratingAvg":  4.6,
+        "downloads":  420000000,
+        "ratings":  [
+                        {
+                            "name":  "5 star",
+                            "count":  1680000
+                        },
+                        {
+                            "name":  "4 star",
+                            "count":  1680000
+                        },
+                        {
+                            "name":  "3 star",
+                            "count":  1120000
+                        },
+                        {
+                            "name":  "2 star",
+                            "count":  560000
+                        },
+                        {
+                            "name":  "1 star",
+                            "count":  560000
+                        }
+                    ]
+    },
+    {
+        "image":  "/Apps/proton-vpn-icon.png",
+        "title":  "Proton VPN",
+        "companyName":  "Proton AG",
+        "id":  50,
+        "description":  "Secure VPN service. Browse privately and protect your online privacy from tracking and surveillance. Strong encryption protects your internet traffic from hackers and snoopers. No-logs policy ensures your browsing activity is never recorded or stored. Servers in 60+ countries allow you to access content from around the world. NetShield feature blocks ads, trackers, and malware for safer browsing. Kill switch prevents data leaks if VPN connection drops unexpectedly. Free version available with unlimited bandwidth unlike most VPN providers.",
+        "size":  56.7,
+        "reviews":  4200000,
+        "ratingAvg":  4.5,
+        "downloads":  280000000,
+        "ratings":  [
+                        {
+                            "name":  "5 star",
+                            "count":  1260000
+                        },
+                        {
+                            "name":  "4 star",
+                            "count":  1260000
+                        },
+                        {
+                            "name":  "3 star",
+                            "count":  840000
+                        },
+                        {
+                            "name":  "2 star",
+                            "count":  420000
+                        },
+                        {
+                            "name":  "1 star",
+                            "count":  420000
+                        }
+                    ]
+    },
+    {
+        "image":  "/Apps/ShareX_Logo.png",
+        "title":  "ShareX",
+        "companyName":  "ShareX Team",
+        "id":  51,
+        "description":  "Screen capture and sharing tool. Capture, annotate, and share screenshots effortlessly with powerful features. Multiple capture methods including full screen, window, region, and scrolling capture. Built-in image editor with annotation tools like arrows, text, and highlights. Automatic uploading to over 80 different services including Imgur and Google Drive. Customizable keyboard shortcuts for lightning-fast screenshot workflow. Record screen video and GIF animations with audio support. OCR (text recognition) extracts text from images for easy copying. Completely free and open-source with active development and community support.",
+        "size":  12.3,
+        "reviews":  1850000,
+        "ratingAvg":  4.8,
+        "downloads":  125000000,
+        "ratings":  [
+                        {
+                            "name":  "5 star",
+                            "count":  555000
+                        },
+                        {
+                            "name":  "4 star",
+                            "count":  555000
+                        },
+                        {
+                            "name":  "3 star",
+                            "count":  370000
+                        },
+                        {
+                            "name":  "2 star",
+                            "count":  185000
+                        },
+                        {
+                            "name":  "1 star",
+                            "count":  185000
+                        }
+                    ]
+    }
+]

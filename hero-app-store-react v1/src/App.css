@@ -1,0 +1,18 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+* {
+  color-scheme: light;
+}
+
+html, body {
+  background-color: #f5f5f5;
+  color: black;
+}
+
+@media (prefers-color-scheme: dark) {
+  html, body {
+    background-color: #f5f5f5 !important;
+    color: black !important;
+  }
+}
