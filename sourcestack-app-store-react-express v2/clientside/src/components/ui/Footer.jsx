@@ -11,6 +11,10 @@ const Footer = () => {
         <footer className='bg-gray-900 text-white py-12 px-4'>
             <div className='max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-3 gap-8'>
                 
+                {/* Logo Section */}
+                <div>
+                    <img src="/SourceStack.png" alt="SourceStack Logo" className="w-64 h-64" />
+                </div>
               
                 <div>
                     <h3 className='text-xl font-bold mb-4'>Useful Links</h3>
@@ -85,7 +89,7 @@ const Footer = () => {
 
        
             <div className='max-w-6xl mx-auto mt-8 pt-8 border-t border-gray-700 text-center text-gray-400 text-sm'>
-                <p>&copy; 2025 HERO.IO - All Rights Reserved</p>
+                <p>&copy; 2025 SourceStack - All Rights Reserved</p>
             </div>
         </footer>
     );

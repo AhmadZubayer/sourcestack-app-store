@@ -1,6 +1,5 @@
 import React from 'react';
 import { NavLink, Link } from 'react-router';
-import logo from '../../assets/logo.png';
 import './Nav.css';
 import github from '../../assets/github.png';
 
@@ -22,8 +21,8 @@ const Nav = () => {
                     </ul>
                 </div>
                 <Link to="/" className="btn btn-ghost text-xl flex items-center gap-2">
-                    <img src={logo} alt="Logo" className="w-8 h-8" />
-                    <span>HERO.IO</span>
+                    <img src="/SourceStack.png" alt="SourceStack Logo" className="w-8 h-8" />
+                    <span>SourceStack</span>
                 </Link>
             </div>
             <div className="navbar-center hidden lg:flex">
